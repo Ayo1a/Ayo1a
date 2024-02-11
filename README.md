@@ -10,11 +10,16 @@ A firm believer in the power of teamwork 👥🌱, I actively contribute to coll
   <li> Database Management: Adept in MySQL for database creation, querying, and manipulation. Experienced in both relational and non-relational databases.</li>
   <li> Server Administration: Capable of configuring, managing, and troubleshooting servers for optimal performance and security.</li>
   <li> Frameworks & Technologies: Experienced with various development frameworks and technologies, ensuring best practices in software engineering.</li>
+  <li> Scriptwriting & Program Analysis: Proficient in writing scripts for automation and analyzing program flow and logic.</li>
 </ul>
 <ul dir = "skills">
+  ### Hello, I am Liya Avita
 ### ✨ Additional Skills:
-  <li></li>
-  <li></li>
+  <li> Oral & Written Communication: Excellent communication skills, capable of articulating technical concepts to non-technical audiences.</li>
+  <li> Education & Mentorship: Passionate about guiding young individuals in mobile app development, from conceptualization to publication in App Stores.</li>
+  <li> System Development: Experienced in the full lifecycle of system development, from requirement gathering to deployment.</li>
+  <li> Computer Systems Analysis: Strong analytical skills in assessing and optimizing IT systems and architectures.</li>
+ 
 </ul>
 <a href="https://www.linkedin.com/in/liya-hanny-avitan-a81b30162/" target="_blank" title="My Linkdin profile" rel="nofollow">
   <img src="img/social/linkdin.png" height="70" style="max-width: 100%;">
