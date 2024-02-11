@@ -3,9 +3,9 @@
 A firm believer in the power of teamwork 👥🌱, I actively contribute to collaborative development projects and strategic initiatives 🤝💼, always aiming to enhance project outcomes and drive continuous improvement 🚀🍃. My approach combines technical prowess 💻🔧 with a strategic mindset 🧠⚙️, underscoring my commitment to operational excellence 🌟📈 and team success 🏆🍂 in the software engineering domain 🖥️🔍.
 
 <ul dir = "auto">
-  <li> ::marker ""</li>
-  <li></li>
-  <li></li>
+  <li> "Software Development: Proficient in developing robust software solutions using Java, Python, and JavaScript. Experienced in both front-end and back-end development."</li>
+  <li>"Cloud Technologies: Extensive experience with cloud infrastructure, particularly in deploying and managing applications"</li>
+  <li>"Linux: Advanced knowledge in Linux server management and administration"</li>
   <li></li>
   <li></li>
 </ul>
