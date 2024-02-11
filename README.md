@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, I am Liya Avitan 👋
+
 A firm believer in the power of teamwork 👥🌱, I actively contribute to collaborative development projects and strategic initiatives 🤝💼, always aiming to enhance project outcomes and drive continuous improvement 🚀🍃. My approach combines technical prowess 💻🔧 with a strategic mindset 🧠⚙️, underscoring my commitment to operational excellence 🌟📈 and team success 🏆🍂 in the software engineering domain 🖥️🔍.
 <!--
 **Ayo1a/Ayo1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
