@@ -13,7 +13,7 @@ A firm believer in the power of teamwork 👥🌱, I actively contribute to coll
   <li> Scriptwriting & Program Analysis: Proficient in writing scripts for automation and analyzing program flow and logic.</li>
 </ul>
 
-# ✨ Additional Skills:
+#### ✨ Additional Skills:
 
 <ul dir = "skills">
   <li> Oral & Written Communication: Excellent communication skills, capable of articulating technical concepts to non-technical audiences.</li>
