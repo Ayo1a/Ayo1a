@@ -2,7 +2,7 @@
 
 A firm believer in the power of teamwork 👥🌱, I actively contribute to collaborative development projects and strategic initiatives 🤝💼, always aiming to enhance project outcomes and drive continuous improvement 🚀🍃. My approach combines technical prowess 💻🔧 with a strategic mindset 🧠⚙️, underscoring my commitment to operational excellence 🌟📈 and team success 🏆🍂 in the software engineering domain 🖥️🔍.
 
-<a href="https://www.linkedin.com/in/liya-hanny-avitan-a81b30162/" title="My Linkdin profile" rel="nofollow">
+<a href="https://www.linkedin.com/in/liya-hanny-avitan-a81b30162/" title="My Linkdin profile" target="_blank" rel="nofollow">
   
   <img src="img/social/linkdin.png" height="70" style="max-width: 100%;">
 </a>
