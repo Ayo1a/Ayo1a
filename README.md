@@ -12,7 +12,7 @@ A firm believer in the power of teamwork 👥🌱, I actively contribute to coll
   <li> Frameworks & Technologies: Experienced with various development frameworks and technologies, ensuring best practices in software engineering.</li>
 </ul>
 <ul dir = "skills">
-## ✨ Additional Skills:
+### ✨ Additional Skills:
   <li></li>
   <li></li>
 </ul>
