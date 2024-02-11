@@ -12,9 +12,9 @@ A firm believer in the power of teamwork 👥🌱, I actively contribute to coll
   <li> Frameworks & Technologies: Experienced with various development frameworks and technologies, ensuring best practices in software engineering.</li>
   <li> Scriptwriting & Program Analysis: Proficient in writing scripts for automation and analyzing program flow and logic.</li>
 </ul>
-<ul dir = "skills">
   ### Hello, I am Liya Avita
-### ✨ Additional Skills:
+## ✨ Additional Skills:
+<ul dir = "skills">
   <li> Oral & Written Communication: Excellent communication skills, capable of articulating technical concepts to non-technical audiences.</li>
   <li> Education & Mentorship: Passionate about guiding young individuals in mobile app development, from conceptualization to publication in App Stores.</li>
   <li> System Development: Experienced in the full lifecycle of system development, from requirement gathering to deployment.</li>
